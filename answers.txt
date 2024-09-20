@@ -5,3 +5,11 @@ Answer: [It is easy to use and simple to upload answers]
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: [Healthcare, it can analyze a patient's data and provide insight into trends]
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: [Merging combines the the changes from one branch to another while rebasing commits the changes of one branch onto the other]
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: [Data analysis and coding]
