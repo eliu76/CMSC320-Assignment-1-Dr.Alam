@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: [It is easy to use and simple to upload answers]
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: [Healthcare, it can analyze a patient's data and provide insight into trends]
